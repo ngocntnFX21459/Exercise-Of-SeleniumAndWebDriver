@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-13T15:14:51 ICT" name="Default suite" finished-at="2024-05-13T15:15:04 ICT" duration-ms="12689">
+    <groups>
+    </groups>
+    <test started-at="2024-05-13T15:14:51 ICT" name="Default test" finished-at="2024-05-13T15:15:04 ICT" duration-ms="12689">
+      <class name="THLan1.BaiThucHanh">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:THLan1.BaiThucHanh@2dc54ad4]" started-at="2024-05-13T15:14:51 ICT" name="openBrowser" finished-at="2024-05-13T15:14:59 ICT" duration-ms="7337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="findSearchBox()[pri:0, instance:THLan1.BaiThucHanh@2dc54ad4]" started-at="2024-05-13T15:14:59 ICT" name="findSearchBox" finished-at="2024-05-13T15:15:04 ICT" duration-ms="5090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findSearchBox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:THLan1.BaiThucHanh@2dc54ad4]" started-at="2024-05-13T15:15:04 ICT" name="closeBrowser" finished-at="2024-05-13T15:15:04 ICT" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- THLan1.BaiThucHanh -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
